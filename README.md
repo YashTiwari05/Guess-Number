@@ -32,12 +32,4 @@ Follow these steps to set up and run the game locally in VSCode:
 - CSS3
 - JavaScript 
 
-## Contributing
 
-If you want to contribute to this project or report issues, please let me know.
-
-## License
-
-This project is licensed under the MIT License - see the MIT_LICENSE file for details.
-
-Enjoy playing "Guess My Number" and see if you can beat your own high score! Have fun and happy guessing!
